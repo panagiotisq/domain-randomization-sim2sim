@@ -1,7 +1,7 @@
 
 Domain Randomization for Sim-to-Sim Transfer
 
-![Preview](space2.jpg)
+![Preview](pic.png)
 
 
 
