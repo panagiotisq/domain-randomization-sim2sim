@@ -1,6 +1,8 @@
 
 Domain Randomization for Sim-to-Sim Transfer
 
+(Reinforcement Learning project)
+
 ![Preview](pic.png)
 
 
